@@ -1,0 +1,2 @@
+# Micrograd-Neural-Network-Implementation-Micrograd-Neural-Network-Implementation
+This repository contains an implementation of a neural network framework inspired by the MicroGrad library, designed for educational purposes. The framework includes fundamental components such as Value, Neuron, Layer, and MLP classes, enabling the construction, forward pass, and backpropagation of simple neural networks.
